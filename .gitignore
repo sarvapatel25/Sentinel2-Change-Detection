@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Geospatial Raw Data & Heavy Rasters (Excludes raw downloaded bands)
+data/raw/T1/*.tif
+data/raw/T2/*.tif
+*.jp2
+*.SAFE/
+
+# Mac OS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment and IDE settings
+.vscode/
+.idea/
+*.venv
+env/
+venv/
