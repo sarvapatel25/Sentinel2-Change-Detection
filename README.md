@@ -110,7 +110,7 @@ GIS_v1/
 ## Installation & Execution
 
 1. Clone repository:
-   git clone https://github.com/your-username/Sentinel2-Change-Detection.git
+   git clone https://github.com/sarvapatel25/Sentinel2-Change-Detection.git
    cd Sentinel2-Change-Detection
 
 2. Install dependencies:
